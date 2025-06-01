@@ -78,7 +78,7 @@
   <!-- Musik romantis autoplay -->
   <audio autoplay loop>
     <source src="https://github.com/amh012/Asyiqin.html/blob/main/2019-07-01_-_Love_Spell_-_David_Fesliyan.mp3" type="audio/mp3">
-    Browser kamu tidak mendukung audio.
+    
   </audio>
 </body>
 </html>
